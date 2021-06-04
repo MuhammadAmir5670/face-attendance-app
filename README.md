@@ -1,3 +1,5 @@
+
+
 # Face Recognition Attandance System
 
 ![Face Scan Image](utilities/scan.gif)
@@ -95,7 +97,7 @@ The algorithm has Four phases:
 3. Model training
 4. Web application development
 
-for detailed information with examples please refer to the [FaceApp.ipynb]() file.
+for detailed information with examples please refer to the [FaceApp.ipynb](https://github.com/MuhammadAmir5670/face-attendance-app/blob/master/FaceApp.ipynb) file.
 
 ## Error Analysis
 The possible reasons for the errors could be:
@@ -103,6 +105,9 @@ The possible reasons for the errors could be:
 1. Change in the person’s face over time - considerable facial change from the photo used in training.
 2. Two or more similar looking people - If there are multiple people with similar faces, then the model may wrongly classify a person as someone else.
 3. Lack of training data - Deep learning networks are known to increase their accuracy in increasing the data. Since we have only one image per person, therefore there is scope for the model to be trained more efficiently.
+
+## License
+<a href="https://github.com/MuhammadAmir5670/face-attendance-app/blob/master/LICENSE">![GitHub](https://img.shields.io/github/license/MuhammadAmir5670/face-attendance-app)</a>
 
 ## Author Info
 - Gmail [muhammadamir5670@gmail.com]()
@@ -114,4 +119,3 @@ The possible reasons for the errors could be:
 </a>
 <a href = "https://www.instagram.com/the_infamous_abbasi/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a>
 </p>
-
