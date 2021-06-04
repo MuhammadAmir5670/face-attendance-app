@@ -16,7 +16,6 @@ You're sections headers will be used to reference location of destination.
 - [License](#license)
 - [Author Info](#author-info)
 
----
 
 ## Description
 Attendance plays a pivotal role in determining academic performance of children and youth in schools and colleges. the manual process of taking attendance by calling each student’s name is inefficient due to the following reasons:
@@ -29,7 +28,6 @@ therefore, we seek to provide an automated and reliable attendance system using 
 * To design a real-time face recognition system that identifies people within the premises of an organization i.e. universites, colleges, Business Campanies etc. The system is meant to take live video footage as an input through the different CCTV cameras installed at various vital locations.
 * To design a web portal for the educational institutes where the insitutes can register themself and make use of the automated attendance system.
 
----
 ## How To Use
 
 #### Installation
@@ -74,7 +72,7 @@ $ python runx.py
 ```
 Here is a demo to run the CLI tool.
 
-![demo image file](demo.png)
+![demo image file](utilities/demo.png)
 
 you can also change any default settings by editing the `config.py` file.
 
